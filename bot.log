@@ -1,0 +1,929 @@
+2025-07-07 17:28:46,796 - __main__ - INFO - Запуск бота...
+2025-07-07 17:28:50,406 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-07 17:28:50,406 - aiogram.dispatcher - INFO - Start polling
+2025-07-07 17:28:50,535 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-07 17:35:03,032 - __main__ - INFO - Запуск бота...
+2025-07-07 17:35:03,646 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-07 17:35:03,646 - aiogram.dispatcher - INFO - Start polling
+2025-07-07 17:35:03,728 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-07 17:35:25,138 - aiogram.event - INFO - Update id=376614108 is handled. Duration 671 ms by bot id=7557858368
+2025-07-07 17:35:34,888 - aiogram.event - INFO - Update id=376614109 is handled. Duration 125 ms by bot id=7557858368
+2025-07-07 17:35:47,950 - aiogram.event - INFO - Update id=376614110 is handled. Duration 250 ms by bot id=7557858368
+2025-07-07 17:35:56,464 - aiogram.event - INFO - Update id=376614111 is handled. Duration 141 ms by bot id=7557858368
+2025-07-07 17:36:17,603 - aiogram.event - INFO - Update id=376614112 is handled. Duration 405 ms by bot id=7557858368
+2025-07-07 17:36:51,081 - aiogram.event - INFO - Update id=376614113 is handled. Duration 516 ms by bot id=7557858368
+2025-07-07 17:37:05,276 - aiogram.event - INFO - Update id=376614114 is handled. Duration 311 ms by bot id=7557858368
+2025-07-07 17:37:11,752 - aiogram.event - INFO - Update id=376614115 is handled. Duration 266 ms by bot id=7557858368
+2025-07-07 17:37:23,544 - aiogram.event - INFO - Update id=376614116 is handled. Duration 141 ms by bot id=7557858368
+2025-07-07 17:37:49,621 - aiogram.event - INFO - Update id=376614117 is handled. Duration 452 ms by bot id=7557858368
+2025-07-07 17:37:59,259 - aiogram.event - INFO - Update id=376614118 is handled. Duration 282 ms by bot id=7557858368
+2025-07-07 17:38:03,496 - aiogram.event - INFO - Update id=376614119 is handled. Duration 186 ms by bot id=7557858368
+2025-07-07 17:38:06,838 - aiogram.event - INFO - Update id=376614120 is handled. Duration 625 ms by bot id=7557858368
+2025-07-07 17:38:23,246 - aiogram.event - INFO - Update id=376614121 is handled. Duration 1046 ms by bot id=7557858368
+2025-07-07 17:38:27,778 - aiogram.event - INFO - Update id=376614122 is handled. Duration 125 ms by bot id=7557858368
+2025-07-07 17:38:40,417 - __main__ - ERROR - Ошибка отправки админу: Telegram server says - Bad Request: chat not found
+2025-07-07 17:38:40,570 - aiogram.event - INFO - Update id=376614123 is handled. Duration 578 ms by bot id=7557858368
+2025-07-07 17:42:59,591 - __main__ - INFO - Запуск бота...
+2025-07-07 17:43:00,142 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-07 17:43:00,143 - aiogram.dispatcher - INFO - Start polling
+2025-07-07 17:43:00,272 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-07 17:43:21,083 - aiogram.event - INFO - Update id=376614124 is handled. Duration 360 ms by bot id=7557858368
+2025-07-07 17:43:23,479 - aiogram.event - INFO - Update id=376614125 is handled. Duration 125 ms by bot id=7557858368
+2025-07-07 17:43:31,794 - aiogram.event - INFO - Update id=376614126 is handled. Duration 156 ms by bot id=7557858368
+2025-07-07 17:43:39,405 - aiogram.event - INFO - Update id=376614127 is handled. Duration 250 ms by bot id=7557858368
+2025-07-07 17:43:51,541 - aiogram.event - INFO - Update id=376614128 is handled. Duration 172 ms by bot id=7557858368
+2025-07-07 17:43:57,360 - aiogram.event - INFO - Update id=376614129 is handled. Duration 342 ms by bot id=7557858368
+2025-07-07 17:44:12,108 - aiogram.event - INFO - Update id=376614130 is handled. Duration 202 ms by bot id=7557858368
+2025-07-07 17:44:34,393 - aiogram.event - INFO - Update id=376614131 is handled. Duration 577 ms by bot id=7557858368
+2025-07-07 17:44:38,903 - aiogram.event - INFO - Update id=376614132 is handled. Duration 358 ms by bot id=7557858368
+2025-07-07 17:44:41,619 - aiogram.event - INFO - Update id=376614133 is handled. Duration 202 ms by bot id=7557858368
+2025-07-07 17:44:44,320 - aiogram.event - INFO - Update id=376614134 is handled. Duration 312 ms by bot id=7557858368
+2025-07-07 17:44:52,810 - aiogram.event - INFO - Update id=376614135 is handled. Duration 204 ms by bot id=7557858368
+2025-07-07 17:44:56,870 - aiogram.event - INFO - Update id=376614136 is handled. Duration 155 ms by bot id=7557858368
+2025-07-07 17:44:58,863 - __main__ - ERROR - Ошибка отправки админу: Telegram server says - Bad Request: chat not found
+2025-07-07 17:44:59,271 - aiogram.event - INFO - Update id=376614137 is handled. Duration 842 ms by bot id=7557858368
+2025-07-07 17:52:38,748 - __main__ - INFO - Запуск бота...
+2025-07-07 17:52:39,301 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-07 17:52:39,301 - aiogram.dispatcher - INFO - Start polling
+2025-07-07 17:52:39,379 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-07 17:52:56,294 - aiogram.event - INFO - Update id=376614138 is handled. Duration 2661 ms by bot id=7557858368
+2025-07-07 18:02:22,259 - __main__ - INFO - Запуск бота...
+2025-07-07 18:02:22,780 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-07 18:02:22,781 - aiogram.dispatcher - INFO - Start polling
+2025-07-07 18:02:22,984 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-07 18:02:32,447 - aiogram.event - INFO - Update id=376614139 is handled. Duration 525 ms by bot id=7557858368
+2025-07-07 18:03:14,543 - __main__ - INFO - Запуск бота...
+2025-07-07 18:03:16,160 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-07 18:03:16,160 - aiogram.dispatcher - INFO - Start polling
+2025-07-07 18:03:16,429 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-07 18:03:18,793 - aiogram.event - INFO - Update id=376614140 is handled. Duration 511 ms by bot id=7557858368
+2025-07-07 18:03:21,195 - aiogram.event - INFO - Update id=376614141 is handled. Duration 187 ms by bot id=7557858368
+2025-07-07 18:03:27,087 - aiogram.event - INFO - Update id=376614142 is handled. Duration 526 ms by bot id=7557858368
+2025-07-07 18:03:49,397 - aiogram.event - INFO - Update id=376614143 is handled. Duration 197 ms by bot id=7557858368
+2025-07-07 18:03:54,876 - aiogram.event - INFO - Update id=376614144 is handled. Duration 143 ms by bot id=7557858368
+2025-07-07 18:04:00,583 - aiogram.event - INFO - Update id=376614145 is handled. Duration 158 ms by bot id=7557858368
+2025-07-07 18:04:13,395 - aiogram.event - INFO - Update id=376614146 is handled. Duration 250 ms by bot id=7557858368
+2025-07-07 18:04:31,391 - aiogram.event - INFO - Update id=376614147 is handled. Duration 245 ms by bot id=7557858368
+2025-07-07 18:04:38,145 - aiogram.event - INFO - Update id=376614148 is handled. Duration 462 ms by bot id=7557858368
+2025-07-07 18:04:43,709 - aiogram.event - INFO - Update id=376614149 is handled. Duration 359 ms by bot id=7557858368
+2025-07-07 18:04:47,036 - aiogram.event - INFO - Update id=376614150 is handled. Duration 437 ms by bot id=7557858368
+2025-07-07 18:04:48,912 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-07 18:04:49,144 - aiogram.event - INFO - Update id=376614151 is handled. Duration 817 ms by bot id=7557858368
+2025-07-07 18:05:03,311 - aiogram.event - INFO - Update id=376614152 is handled. Duration 249 ms by bot id=7557858368
+2025-07-07 18:05:18,800 - aiogram.event - INFO - Update id=376614153 is handled. Duration 294 ms by bot id=7557858368
+2025-07-07 18:05:22,313 - __main__ - ERROR - Ошибка обработки админского действия: Telegram server says - Bad Request: there is no text in the message to edit
+2025-07-07 18:05:22,602 - aiogram.event - INFO - Update id=376614154 is handled. Duration 535 ms by bot id=7557858368
+2025-07-07 18:05:29,237 - __main__ - ERROR - Ошибка публикации в канал: Telegram server says - Bad Request: chat not found
+2025-07-07 18:05:29,434 - __main__ - ERROR - Ошибка обработки админского действия: Telegram server says - Bad Request: there is no text in the message to edit
+2025-07-07 18:05:29,663 - aiogram.event - INFO - Update id=376614155 is handled. Duration 629 ms by bot id=7557858368
+2025-07-07 18:11:42,312 - __main__ - INFO - Запуск бота...
+2025-07-07 18:11:43,004 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-07 18:11:43,004 - aiogram.dispatcher - INFO - Start polling
+2025-07-07 18:11:43,645 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-07 18:12:14,145 - aiogram.event - INFO - Update id=376614156 is handled. Duration 474 ms by bot id=7557858368
+2025-07-07 18:12:19,261 - aiogram.event - INFO - Update id=376614157 is handled. Duration 289 ms by bot id=7557858368
+2025-07-07 18:12:24,360 - aiogram.event - INFO - Update id=376614158 is handled. Duration 191 ms by bot id=7557858368
+2025-07-07 18:12:40,382 - aiogram.event - INFO - Update id=376614159 is handled. Duration 281 ms by bot id=7557858368
+2025-07-07 18:12:44,957 - aiogram.event - INFO - Update id=376614160 is handled. Duration 229 ms by bot id=7557858368
+2025-07-07 18:13:13,536 - aiogram.event - INFO - Update id=376614161 is handled. Duration 282 ms by bot id=7557858368
+2025-07-07 18:13:48,664 - aiogram.event - INFO - Update id=376614162 is handled. Duration 169 ms by bot id=7557858368
+2025-07-07 18:14:14,355 - aiogram.event - INFO - Update id=376614163 is handled. Duration 181 ms by bot id=7557858368
+2025-07-07 18:14:17,857 - aiogram.event - INFO - Update id=376614164 is handled. Duration 427 ms by bot id=7557858368
+2025-07-07 18:14:25,110 - aiogram.event - INFO - Update id=376614165 is handled. Duration 181 ms by bot id=7557858368
+2025-07-07 18:14:27,135 - aiogram.event - INFO - Update id=376614166 is handled. Duration 333 ms by bot id=7557858368
+2025-07-07 18:14:29,598 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-07 18:14:29,693 - aiogram.event - INFO - Update id=376614167 is handled. Duration 366 ms by bot id=7557858368
+2025-07-07 18:14:42,739 - __main__ - INFO - Жалоба #864497192 опубликована в канале
+2025-07-07 18:14:42,929 - __main__ - ERROR - Ошибка обработки админского действия: Telegram server says - Bad Request: there is no text in the message to edit
+2025-07-07 18:14:43,098 - aiogram.event - INFO - Update id=376614168 is handled. Duration 609 ms by bot id=7557858368
+2025-07-07 18:15:27,735 - aiogram.event - INFO - Update id=376614169 is handled. Duration 398 ms by bot id=7557858368
+2025-07-07 18:15:46,330 - aiogram.event - INFO - Update id=376614170 is handled. Duration 319 ms by bot id=7557858368
+2025-07-07 18:16:16,029 - aiogram.event - INFO - Update id=376614171 is handled. Duration 160 ms by bot id=7557858368
+2025-07-07 18:16:19,657 - aiogram.event - INFO - Update id=376614172 is handled. Duration 154 ms by bot id=7557858368
+2025-07-07 18:16:24,305 - aiogram.event - INFO - Update id=376614173 is handled. Duration 200 ms by bot id=7557858368
+2025-07-07 18:16:43,269 - aiogram.event - INFO - Update id=376614174 is handled. Duration 273 ms by bot id=7557858368
+2025-07-07 18:17:02,137 - aiogram.event - INFO - Update id=376614175 is handled. Duration 188 ms by bot id=7557858368
+2025-07-07 18:17:03,741 - aiogram.event - INFO - Update id=376614176 is handled. Duration 266 ms by bot id=7557858368
+2025-07-07 18:17:08,765 - aiogram.event - INFO - Update id=376614177 is handled. Duration 224 ms by bot id=7557858368
+2025-07-07 18:17:10,698 - aiogram.event - INFO - Update id=376614178 is handled. Duration 731 ms by bot id=7557858368
+2025-07-07 18:17:19,160 - aiogram.event - INFO - Update id=376614179 is handled. Duration 201 ms by bot id=7557858368
+2025-07-07 18:17:33,706 - aiogram.event - INFO - Update id=376614180 is handled. Duration 134 ms by bot id=7557858368
+2025-07-07 18:17:36,950 - aiogram.event - INFO - Update id=376614181 is handled. Duration 129 ms by bot id=7557858368
+2025-07-07 18:17:38,518 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-07 18:17:38,631 - aiogram.event - INFO - Update id=376614182 is handled. Duration 531 ms by bot id=7557858368
+2025-07-07 18:17:46,590 - aiogram.event - INFO - Update id=376614183 is handled. Duration 221 ms by bot id=7557858368
+2025-07-07 18:17:57,453 - aiogram.event - INFO - Update id=376614184 is handled. Duration 282 ms by bot id=7557858368
+2025-07-07 18:18:01,526 - __main__ - ERROR - Ошибка обработки админского действия: Telegram server says - Bad Request: there is no text in the message to edit
+2025-07-07 18:18:01,614 - aiogram.event - INFO - Update id=376614185 is handled. Duration 171 ms by bot id=7557858368
+2025-07-07 18:18:04,947 - __main__ - ERROR - Ошибка обработки админского действия: Telegram server says - Bad Request: there is no text in the message to edit
+2025-07-07 18:18:05,107 - aiogram.event - INFO - Update id=376614186 is handled. Duration 297 ms by bot id=7557858368
+2025-07-07 18:18:13,815 - __main__ - ERROR - Ошибка обработки админского действия: Telegram server says - Bad Request: there is no text in the message to edit
+2025-07-07 18:18:13,931 - aiogram.event - INFO - Update id=376614187 is handled. Duration 208 ms by bot id=7557858368
+2025-07-07 18:18:17,137 - __main__ - INFO - Жалоба #864497192 опубликована в канале
+2025-07-07 18:18:17,225 - __main__ - ERROR - Ошибка обработки админского действия: Telegram server says - Bad Request: there is no text in the message to edit
+2025-07-07 18:18:17,324 - aiogram.event - INFO - Update id=376614188 is handled. Duration 631 ms by bot id=7557858368
+2025-07-07 18:31:58,159 - aiogram.event - INFO - Update id=376614189 is handled. Duration 331 ms by bot id=7557858368
+2025-07-07 18:32:46,959 - aiogram.event - INFO - Update id=376614190 is handled. Duration 393 ms by bot id=7557858368
+2025-07-07 18:41:43,251 - aiogram.event - INFO - Update id=376614191 is handled. Duration 379 ms by bot id=7557858368
+2025-07-07 18:41:47,803 - aiogram.event - INFO - Update id=376614192 is handled. Duration 215 ms by bot id=7557858368
+2025-07-07 18:42:00,660 - aiogram.event - INFO - Update id=376614193 is handled. Duration 188 ms by bot id=7557858368
+2025-07-07 18:42:35,698 - aiogram.event - INFO - Update id=376614194 is handled. Duration 188 ms by bot id=7557858368
+2025-07-07 18:42:50,248 - aiogram.event - INFO - Update id=376614195 is handled. Duration 226 ms by bot id=7557858368
+2025-07-07 18:43:10,634 - aiogram.event - INFO - Update id=376614196 is handled. Duration 176 ms by bot id=7557858368
+2025-07-07 18:43:30,681 - aiogram.event - INFO - Update id=376614197 is handled. Duration 365 ms by bot id=7557858368
+2025-07-07 18:43:42,003 - aiogram.event - INFO - Update id=376614198 is handled. Duration 206 ms by bot id=7557858368
+2025-07-07 18:44:29,170 - aiogram.event - INFO - Update id=376614199 is handled. Duration 160 ms by bot id=7557858368
+2025-07-07 18:44:35,019 - aiogram.event - INFO - Update id=376614200 is handled. Duration 426 ms by bot id=7557858368
+2025-07-07 18:44:45,736 - aiogram.event - INFO - Update id=376614201 is handled. Duration 211 ms by bot id=7557858368
+2025-07-07 18:44:51,505 - aiogram.event - INFO - Update id=376614202 is handled. Duration 385 ms by bot id=7557858368
+2025-07-07 18:45:17,693 - aiogram.event - INFO - Update id=376614203 is handled. Duration 271 ms by bot id=7557858368
+2025-07-07 18:45:28,586 - aiogram.event - INFO - Update id=376614204 is handled. Duration 112 ms by bot id=7557858368
+2025-07-07 18:45:35,666 - __main__ - INFO - Жалоба #1093759608 отправлена админу
+2025-07-07 18:45:35,914 - aiogram.event - INFO - Update id=376614205 is handled. Duration 785 ms by bot id=7557858368
+2025-07-07 18:47:50,968 - __main__ - INFO - Жалоба #1093759608 опубликована в канале
+2025-07-07 18:47:51,190 - __main__ - ERROR - Ошибка обработки админского действия: Telegram server says - Bad Request: there is no text in the message to edit
+2025-07-07 18:47:51,554 - aiogram.event - INFO - Update id=376614206 is handled. Duration 1105 ms by bot id=7557858368
+2025-07-07 18:52:30,423 - aiogram.event - INFO - Update id=376614207 is handled. Duration 636 ms by bot id=7557858368
+2025-07-07 18:52:35,343 - aiogram.event - INFO - Update id=376614208 is handled. Duration 298 ms by bot id=7557858368
+2025-07-07 18:52:49,738 - aiogram.event - INFO - Update id=376614209 is handled. Duration 163 ms by bot id=7557858368
+2025-07-07 18:52:55,901 - aiogram.event - INFO - Update id=376614210 is handled. Duration 255 ms by bot id=7557858368
+2025-07-07 18:52:59,806 - aiogram.event - INFO - Update id=376614211 is handled. Duration 192 ms by bot id=7557858368
+2025-07-07 18:53:03,648 - aiogram.event - INFO - Update id=376614212 is handled. Duration 179 ms by bot id=7557858368
+2025-07-07 18:53:08,422 - aiogram.event - INFO - Update id=376614213 is handled. Duration 347 ms by bot id=7557858368
+2025-07-07 18:53:12,152 - aiogram.event - INFO - Update id=376614214 is handled. Duration 144 ms by bot id=7557858368
+2025-07-07 18:53:22,226 - aiogram.event - INFO - Update id=376614215 is handled. Duration 276 ms by bot id=7557858368
+2025-07-07 18:53:27,698 - aiogram.event - INFO - Update id=376614216 is handled. Duration 501 ms by bot id=7557858368
+2025-07-07 18:53:34,338 - aiogram.event - INFO - Update id=376614217 is handled. Duration 164 ms by bot id=7557858368
+2025-07-07 18:53:39,391 - aiogram.event - INFO - Update id=376614218 is handled. Duration 216 ms by bot id=7557858368
+2025-07-07 18:53:43,055 - aiogram.event - INFO - Update id=376614219 is handled. Duration 233 ms by bot id=7557858368
+2025-07-07 18:53:49,739 - aiogram.event - INFO - Update id=376614220 is handled. Duration 250 ms by bot id=7557858368
+2025-07-07 18:53:59,457 - aiogram.event - INFO - Update id=376614221 is handled. Duration 128 ms by bot id=7557858368
+2025-07-07 18:54:02,684 - __main__ - INFO - Жалоба #2017397728 отправлена админу
+2025-07-07 18:54:02,914 - aiogram.event - INFO - Update id=376614222 is handled. Duration 950 ms by bot id=7557858368
+2025-07-07 18:54:28,218 - __main__ - INFO - Жалоба #2017397728 опубликована в канале
+2025-07-07 18:54:28,349 - __main__ - ERROR - Ошибка обработки админского действия: Telegram server says - Bad Request: there is no text in the message to edit
+2025-07-07 18:54:28,479 - aiogram.event - INFO - Update id=376614223 is handled. Duration 799 ms by bot id=7557858368
+2025-07-07 18:55:26,985 - aiogram.event - INFO - Update id=376614224 is handled. Duration 124 ms by bot id=7557858368
+2025-07-07 18:55:36,559 - aiogram.event - INFO - Update id=376614225 is handled. Duration 143 ms by bot id=7557858368
+2025-07-07 19:02:42,227 - __main__ - INFO - Запуск бота...
+2025-07-07 19:02:45,171 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-07 19:02:45,171 - aiogram.dispatcher - INFO - Start polling
+2025-07-07 19:02:45,702 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-07 19:02:53,942 - aiogram.event - INFO - Update id=376614226 is handled. Duration 563 ms by bot id=7557858368
+2025-07-07 19:02:58,375 - aiogram.event - INFO - Update id=376614227 is handled. Duration 1143 ms by bot id=7557858368
+2025-07-07 19:03:05,875 - aiogram.event - INFO - Update id=376614228 is handled. Duration 368 ms by bot id=7557858368
+2025-07-07 19:03:08,756 - aiogram.event - INFO - Update id=376614229 is handled. Duration 151 ms by bot id=7557858368
+2025-07-07 19:03:11,650 - aiogram.event - INFO - Update id=376614230 is handled. Duration 767 ms by bot id=7557858368
+2025-07-07 19:03:15,365 - aiogram.event - INFO - Update id=376614231 is handled. Duration 196 ms by bot id=7557858368
+2025-07-07 19:03:18,978 - aiogram.event - INFO - Update id=376614232 is handled. Duration 292 ms by bot id=7557858368
+2025-07-07 19:03:33,787 - aiogram.event - INFO - Update id=376614233 is handled. Duration 209 ms by bot id=7557858368
+2025-07-07 19:03:42,932 - aiogram.event - INFO - Update id=376614234 is handled. Duration 840 ms by bot id=7557858368
+2025-07-07 19:03:45,921 - aiogram.event - INFO - Update id=376614235 is handled. Duration 361 ms by bot id=7557858368
+2025-07-07 19:03:47,998 - aiogram.event - INFO - Update id=376614236 is handled. Duration 580 ms by bot id=7557858368
+2025-07-07 19:03:49,667 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-07 19:03:49,925 - aiogram.event - INFO - Update id=376614237 is handled. Duration 802 ms by bot id=7557858368
+2025-07-07 19:03:51,732 - aiogram.event - INFO - Update id=376614238 is handled. Duration 543 ms by bot id=7557858368
+2025-07-07 19:03:54,382 - __main__ - ERROR - Ошибка обработки админского действия: Telegram server says - Bad Request: there is no text in the message to edit
+2025-07-07 19:03:54,659 - aiogram.event - INFO - Update id=376614239 is handled. Duration 409 ms by bot id=7557858368
+2025-07-07 19:04:01,165 - __main__ - ERROR - Ошибка обработки админского действия: Telegram server says - Bad Request: there is no text in the message to edit
+2025-07-07 19:04:01,367 - aiogram.event - INFO - Update id=376614240 is handled. Duration 342 ms by bot id=7557858368
+2025-07-07 19:07:01,413 - __main__ - INFO - Запуск бота...
+2025-07-07 19:07:02,246 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-07 19:07:02,247 - aiogram.dispatcher - INFO - Start polling
+2025-07-07 19:07:02,463 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-07 19:07:10,593 - aiogram.event - INFO - Update id=376614241 is handled. Duration 2195 ms by bot id=7557858368
+2025-07-07 19:07:17,115 - aiogram.event - INFO - Update id=376614243 is handled. Duration 437 ms by bot id=7557858368
+2025-07-07 19:07:17,899 - aiogram.event - INFO - Update id=376614242 is handled. Duration 1221 ms by bot id=7557858368
+2025-07-07 19:07:26,669 - aiogram.event - INFO - Update id=376614244 is handled. Duration 333 ms by bot id=7557858368
+2025-07-07 19:07:30,995 - aiogram.event - INFO - Update id=376614245 is handled. Duration 323 ms by bot id=7557858368
+2025-07-07 19:07:33,808 - aiogram.event - INFO - Update id=376614246 is handled. Duration 236 ms by bot id=7557858368
+2025-07-07 19:07:37,037 - aiogram.event - INFO - Update id=376614247 is handled. Duration 286 ms by bot id=7557858368
+2025-07-07 19:07:41,433 - aiogram.event - INFO - Update id=376614248 is handled. Duration 328 ms by bot id=7557858368
+2025-07-07 19:07:44,712 - aiogram.event - INFO - Update id=376614249 is handled. Duration 398 ms by bot id=7557858368
+2025-07-07 19:07:47,196 - aiogram.event - INFO - Update id=376614250 is handled. Duration 157 ms by bot id=7557858368
+2025-07-07 19:07:49,481 - aiogram.event - INFO - Update id=376614251 is handled. Duration 422 ms by bot id=7557858368
+2025-07-07 19:07:51,592 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-07 19:07:51,925 - aiogram.event - INFO - Update id=376614252 is handled. Duration 850 ms by bot id=7557858368
+2025-07-07 19:07:56,995 - aiogram.event - INFO - Update id=376614253 is handled. Duration 425 ms by bot id=7557858368
+2025-07-07 19:07:59,801 - __main__ - ERROR - Ошибка обработки админского действия: Telegram server says - Bad Request: there is no text in the message to edit
+2025-07-07 19:08:00,328 - aiogram.event - INFO - Update id=376614254 is handled. Duration 843 ms by bot id=7557858368
+2025-07-07 19:13:30,603 - __main__ - INFO - Запуск бота...
+2025-07-07 19:13:31,518 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-07 19:13:31,519 - aiogram.dispatcher - INFO - Start polling
+2025-07-07 19:13:31,905 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-07 19:13:57,289 - aiogram.event - INFO - Update id=376614255 is handled. Duration 700 ms by bot id=7557858368
+2025-07-07 19:14:06,166 - aiogram.event - INFO - Update id=376614256 is handled. Duration 214 ms by bot id=7557858368
+2025-07-07 19:14:11,266 - aiogram.event - INFO - Update id=376614257 is handled. Duration 150 ms by bot id=7557858368
+2025-07-07 19:14:13,750 - aiogram.event - INFO - Update id=376614258 is handled. Duration 179 ms by bot id=7557858368
+2025-07-07 19:14:18,888 - aiogram.event - INFO - Update id=376614259 is handled. Duration 182 ms by bot id=7557858368
+2025-07-07 19:14:21,320 - aiogram.event - INFO - Update id=376614260 is handled. Duration 195 ms by bot id=7557858368
+2025-07-07 19:14:28,463 - aiogram.event - INFO - Update id=376614261 is handled. Duration 422 ms by bot id=7557858368
+2025-07-07 19:14:36,907 - aiogram.event - INFO - Update id=376614262 is handled. Duration 193 ms by bot id=7557858368
+2025-07-07 19:14:39,587 - aiogram.event - INFO - Update id=376614263 is handled. Duration 827 ms by bot id=7557858368
+2025-07-07 19:14:42,996 - aiogram.event - INFO - Update id=376614264 is handled. Duration 313 ms by bot id=7557858368
+2025-07-07 19:14:55,107 - aiogram.event - INFO - Update id=376614266 is handled. Duration 0 ms by bot id=7557858368
+2025-07-07 19:14:56,224 - aiogram.event - INFO - Update id=376614265 is handled. Duration 2595 ms by bot id=7557858368
+2025-07-07 19:15:13,516 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-07 19:15:13,748 - aiogram.event - INFO - Update id=376614267 is handled. Duration 1571 ms by bot id=7557858368
+2025-07-07 19:15:17,656 - aiogram.event - INFO - Update id=376614268 is handled. Duration 986 ms by bot id=7557858368
+2025-07-07 19:15:34,838 - aiogram.event - INFO - Update id=376614269 is handled. Duration 350 ms by bot id=7557858368
+2025-07-07 19:15:39,058 - aiogram.event - INFO - Update id=376614270 is handled. Duration 128 ms by bot id=7557858368
+2025-07-07 19:15:42,150 - aiogram.event - INFO - Update id=376614271 is handled. Duration 216 ms by bot id=7557858368
+2025-07-07 19:15:46,241 - aiogram.event - INFO - Update id=376614272 is handled. Duration 169 ms by bot id=7557858368
+2025-07-07 19:15:47,811 - aiogram.event - INFO - Update id=376614273 is handled. Duration 241 ms by bot id=7557858368
+2025-07-07 19:15:54,946 - aiogram.event - INFO - Update id=376614274 is handled. Duration 374 ms by bot id=7557858368
+2025-07-07 19:16:09,432 - aiogram.event - INFO - Update id=376614276 is not handled. Duration 3 ms by bot id=7557858368
+2025-07-07 19:16:11,181 - aiogram.event - INFO - Update id=376614275 is handled. Duration 3584 ms by bot id=7557858368
+2025-07-07 19:16:32,222 - aiogram.event - INFO - Update id=376614277 is handled. Duration 874 ms by bot id=7557858368
+2025-07-07 19:16:34,602 - aiogram.event - INFO - Update id=376614278 is handled. Duration 183 ms by bot id=7557858368
+2025-07-07 19:16:37,658 - aiogram.event - INFO - Update id=376614279 is handled. Duration 383 ms by bot id=7557858368
+2025-07-07 19:16:39,614 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-07 19:16:39,782 - aiogram.event - INFO - Update id=376614280 is handled. Duration 1067 ms by bot id=7557858368
+2025-07-07 19:16:44,603 - aiogram.event - INFO - Update id=376614281 is handled. Duration 1011 ms by bot id=7557858368
+2025-07-07 20:55:32,246 - __main__ - INFO - Запуск бота...
+2025-07-07 20:55:32,853 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-07 20:55:32,854 - aiogram.dispatcher - INFO - Start polling
+2025-07-07 20:55:33,387 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-07 20:56:12,271 - aiogram.event - INFO - Update id=376614282 is handled. Duration 534 ms by bot id=7557858368
+2025-07-07 20:56:23,937 - aiogram.event - INFO - Update id=376614283 is handled. Duration 178 ms by bot id=7557858368
+2025-07-07 20:56:28,158 - aiogram.event - INFO - Update id=376614284 is handled. Duration 158 ms by bot id=7557858368
+2025-07-07 20:56:31,854 - aiogram.event - INFO - Update id=376614285 is handled. Duration 143 ms by bot id=7557858368
+2025-07-07 20:56:35,612 - aiogram.event - INFO - Update id=376614286 is handled. Duration 148 ms by bot id=7557858368
+2025-07-07 20:56:40,459 - aiogram.event - INFO - Update id=376614287 is handled. Duration 356 ms by bot id=7557858368
+2025-07-07 20:56:47,761 - aiogram.event - INFO - Update id=376614288 is handled. Duration 373 ms by bot id=7557858368
+2025-07-07 20:56:56,941 - aiogram.event - INFO - Update id=376614289 is handled. Duration 181 ms by bot id=7557858368
+2025-07-07 20:57:04,806 - aiogram.event - INFO - Update id=376614290 is handled. Duration 714 ms by bot id=7557858368
+2025-07-07 20:57:14,393 - aiogram.event - INFO - Update id=376614291 is handled. Duration 231 ms by bot id=7557858368
+2025-07-07 20:58:17,687 - aiogram.event - INFO - Update id=376614292 is handled. Duration 408 ms by bot id=7557858368
+2025-07-07 20:58:42,115 - aiogram.event - INFO - Update id=376614293 is handled. Duration 151 ms by bot id=7557858368
+2025-07-07 20:59:06,571 - aiogram.event - INFO - Update id=376614294 is handled. Duration 149 ms by bot id=7557858368
+2025-07-07 20:59:20,745 - aiogram.event - INFO - Update id=376614295 is handled. Duration 255 ms by bot id=7557858368
+2025-07-07 20:59:24,104 - aiogram.event - INFO - Update id=376614296 is handled. Duration 444 ms by bot id=7557858368
+2025-07-07 20:59:26,176 - aiogram.event - INFO - Update id=376614297 is handled. Duration 1100 ms by bot id=7557858368
+2025-07-07 20:59:33,468 - aiogram.event - INFO - Update id=376614298 is handled. Duration 760 ms by bot id=7557858368
+2025-07-07 20:59:34,273 - aiogram.event - INFO - Update id=376614299 is handled. Duration 621 ms by bot id=7557858368
+2025-07-07 20:59:37,040 - aiogram.event - INFO - Update id=376614300 is handled. Duration 934 ms by bot id=7557858368
+2025-07-07 20:59:39,573 - aiogram.event - INFO - Update id=376614301 is handled. Duration 417 ms by bot id=7557858368
+2025-07-07 20:59:54,106 - aiogram.event - INFO - Update id=376614302 is handled. Duration 718 ms by bot id=7557858368
+2025-07-07 21:00:01,916 - aiogram.event - INFO - Update id=376614303 is handled. Duration 674 ms by bot id=7557858368
+2025-07-07 21:00:07,790 - aiogram.event - INFO - Update id=376614304 is handled. Duration 524 ms by bot id=7557858368
+2025-07-07 21:00:15,164 - aiogram.event - INFO - Update id=376614305 is handled. Duration 202 ms by bot id=7557858368
+2025-07-07 21:01:04,956 - aiogram.event - INFO - Update id=376614306 is handled. Duration 453 ms by bot id=7557858368
+2025-07-07 21:01:07,690 - aiogram.event - INFO - Update id=376614307 is handled. Duration 575 ms by bot id=7557858368
+2025-07-07 21:02:32,257 - aiogram.event - INFO - Update id=376614308 is handled. Duration 296 ms by bot id=7557858368
+2025-07-07 21:02:38,062 - aiogram.event - INFO - Update id=376614309 is handled. Duration 238 ms by bot id=7557858368
+2025-07-07 21:02:50,146 - aiogram.event - INFO - Update id=376614310 is handled. Duration 438 ms by bot id=7557858368
+2025-07-07 21:02:55,123 - aiogram.event - INFO - Update id=376614311 is handled. Duration 3373 ms by bot id=7557858368
+2025-07-07 21:02:59,323 - aiogram.event - INFO - Update id=376614312 is handled. Duration 1719 ms by bot id=7557858368
+2025-07-07 21:03:05,888 - aiogram.event - INFO - Update id=376614313 is handled. Duration 195 ms by bot id=7557858368
+2025-07-07 21:03:11,736 - aiogram.event - INFO - Update id=376614314 is handled. Duration 1176 ms by bot id=7557858368
+2025-07-07 21:03:27,847 - aiogram.event - INFO - Update id=376614315 is handled. Duration 195 ms by bot id=7557858368
+2025-07-07 21:03:50,516 - aiogram.event - INFO - Update id=376614316 is handled. Duration 353 ms by bot id=7557858368
+2025-07-07 21:03:53,268 - aiogram.event - INFO - Update id=376614317 is handled. Duration 575 ms by bot id=7557858368
+2025-07-07 21:03:55,875 - aiogram.event - INFO - Update id=376614318 is handled. Duration 630 ms by bot id=7557858368
+2025-07-07 21:03:56,625 - aiogram.event - INFO - Update id=376614319 is handled. Duration 343 ms by bot id=7557858368
+2025-07-07 21:03:57,640 - aiogram.event - INFO - Update id=376614320 is handled. Duration 533 ms by bot id=7557858368
+2025-07-07 21:03:59,346 - aiogram.event - INFO - Update id=376614321 is handled. Duration 355 ms by bot id=7557858368
+2025-07-07 21:04:00,194 - aiogram.event - INFO - Update id=376614322 is handled. Duration 321 ms by bot id=7557858368
+2025-07-07 21:04:01,916 - aiogram.event - INFO - Update id=376614323 is handled. Duration 1353 ms by bot id=7557858368
+2025-07-07 21:04:04,010 - aiogram.event - INFO - Update id=376614324 is handled. Duration 878 ms by bot id=7557858368
+2025-07-07 21:04:07,026 - aiogram.event - INFO - Update id=376614325 is handled. Duration 236 ms by bot id=7557858368
+2025-07-07 21:04:10,742 - aiogram.event - INFO - Update id=376614326 is handled. Duration 228 ms by bot id=7557858368
+2025-07-07 21:04:12,600 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-07 21:04:12,693 - aiogram.event - INFO - Update id=376614327 is handled. Duration 447 ms by bot id=7557858368
+2025-07-07 21:04:18,401 - aiogram.event - INFO - Update id=376614328 is handled. Duration 362 ms by bot id=7557858368
+2025-07-07 21:04:25,149 - aiogram.event - INFO - Update id=376614329 is handled. Duration 521 ms by bot id=7557858368
+2025-07-07 21:04:27,177 - __main__ - INFO - Жалоба #864497192 опубликована в канале
+2025-07-07 21:04:27,752 - aiogram.event - INFO - Update id=376614330 is handled. Duration 845 ms by bot id=7557858368
+2025-07-07 21:07:38,518 - __main__ - INFO - Запуск бота...
+2025-07-07 21:07:39,104 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-07 21:07:39,104 - aiogram.dispatcher - INFO - Start polling
+2025-07-07 21:07:39,247 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-07 21:07:49,029 - aiogram.event - INFO - Update id=376614331 is handled. Duration 1113 ms by bot id=7557858368
+2025-07-07 21:07:54,937 - aiogram.event - INFO - Update id=376614332 is handled. Duration 477 ms by bot id=7557858368
+2025-07-07 21:07:57,348 - aiogram.event - INFO - Update id=376614333 is handled. Duration 963 ms by bot id=7557858368
+2025-07-07 21:08:06,914 - aiogram.event - INFO - Update id=376614334 is handled. Duration 499 ms by bot id=7557858368
+2025-07-07 21:08:14,485 - aiogram.event - INFO - Update id=376614335 is handled. Duration 177 ms by bot id=7557858368
+2025-07-07 21:08:16,707 - aiogram.event - INFO - Update id=376614336 is handled. Duration 605 ms by bot id=7557858368
+2025-07-07 21:09:48,743 - aiogram.event - INFO - Update id=376614337 is handled. Duration 1983 ms by bot id=7557858368
+2025-07-07 21:09:53,797 - aiogram.event - INFO - Update id=376614338 is handled. Duration 177 ms by bot id=7557858368
+2025-07-07 21:09:59,607 - aiogram.event - INFO - Update id=376614339 is handled. Duration 207 ms by bot id=7557858368
+2025-07-07 21:10:08,536 - aiogram.event - INFO - Update id=376614340 is handled. Duration 341 ms by bot id=7557858368
+2025-07-07 21:10:11,736 - aiogram.event - INFO - Update id=376614341 is handled. Duration 312 ms by bot id=7557858368
+2025-07-07 21:10:13,937 - aiogram.event - INFO - Update id=376614342 is handled. Duration 335 ms by bot id=7557858368
+2025-07-07 21:10:15,173 - aiogram.event - INFO - Update id=376614343 is handled. Duration 621 ms by bot id=7557858368
+2025-07-07 21:10:16,985 - aiogram.event - INFO - Update id=376614344 is handled. Duration 777 ms by bot id=7557858368
+2025-07-07 21:10:18,799 - aiogram.event - INFO - Update id=376614345 is handled. Duration 679 ms by bot id=7557858368
+2025-07-07 21:10:20,503 - aiogram.event - INFO - Update id=376614346 is handled. Duration 388 ms by bot id=7557858368
+2025-07-07 21:10:23,516 - aiogram.event - INFO - Update id=376614347 is handled. Duration 305 ms by bot id=7557858368
+2025-07-07 21:10:27,675 - aiogram.event - INFO - Update id=376614348 is handled. Duration 754 ms by bot id=7557858368
+2025-07-07 21:10:30,387 - aiogram.event - INFO - Update id=376614349 is handled. Duration 777 ms by bot id=7557858368
+2025-07-07 21:10:33,697 - aiogram.event - INFO - Update id=376614350 is handled. Duration 313 ms by bot id=7557858368
+2025-07-07 21:10:36,083 - aiogram.event - INFO - Update id=376614351 is handled. Duration 645 ms by bot id=7557858368
+2025-07-07 21:10:40,929 - aiogram.event - INFO - Update id=376614352 is handled. Duration 781 ms by bot id=7557858368
+2025-07-07 21:10:44,421 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-07 21:10:44,622 - aiogram.event - INFO - Update id=376614353 is handled. Duration 2069 ms by bot id=7557858368
+2025-07-07 21:10:59,910 - aiogram.event - INFO - Update id=376614354 is handled. Duration 345 ms by bot id=7557858368
+2025-07-07 21:11:18,722 - aiogram.event - INFO - Update id=376614355 is handled. Duration 286 ms by bot id=7557858368
+2025-07-07 21:11:27,665 - aiogram.event - INFO - Update id=376614356 is handled. Duration 230 ms by bot id=7557858368
+2025-07-07 21:11:33,415 - aiogram.event - INFO - Update id=376614357 is handled. Duration 745 ms by bot id=7557858368
+2025-07-07 21:11:38,729 - aiogram.event - INFO - Update id=376614358 is handled. Duration 153 ms by bot id=7557858368
+2025-07-07 21:12:23,333 - aiogram.event - INFO - Update id=376614359 is handled. Duration 2297 ms by bot id=7557858368
+2025-07-07 21:12:25,114 - aiogram.event - INFO - Update id=376614360 is handled. Duration 1160 ms by bot id=7557858368
+2025-07-07 21:12:32,408 - aiogram.event - INFO - Update id=376614361 is handled. Duration 333 ms by bot id=7557858368
+2025-07-07 21:12:38,325 - aiogram.event - INFO - Update id=376614362 is handled. Duration 232 ms by bot id=7557858368
+2025-07-07 21:12:49,722 - aiogram.event - INFO - Update id=376614363 is handled. Duration 2238 ms by bot id=7557858368
+2025-07-07 21:13:00,748 - aiogram.event - INFO - Update id=376614364 is handled. Duration 241 ms by bot id=7557858368
+2025-07-07 21:13:04,835 - aiogram.event - INFO - Update id=376614365 is handled. Duration 570 ms by bot id=7557858368
+2025-07-07 21:13:06,908 - aiogram.event - INFO - Update id=376614366 is handled. Duration 580 ms by bot id=7557858368
+2025-07-07 21:13:09,346 - aiogram.event - INFO - Update id=376614367 is handled. Duration 666 ms by bot id=7557858368
+2025-07-07 21:13:11,997 - aiogram.event - INFO - Update id=376614368 is handled. Duration 559 ms by bot id=7557858368
+2025-07-07 21:13:28,471 - aiogram.event - INFO - Update id=376614369 is handled. Duration 944 ms by bot id=7557858368
+2025-07-07 21:13:30,181 - aiogram.event - INFO - Update id=376614370 is handled. Duration 989 ms by bot id=7557858368
+2025-07-07 21:13:31,817 - aiogram.event - INFO - Update id=376614371 is handled. Duration 897 ms by bot id=7557858368
+2025-07-07 21:13:38,265 - aiogram.event - INFO - Update id=376614372 is handled. Duration 1606 ms by bot id=7557858368
+2025-07-07 21:13:43,116 - aiogram.event - INFO - Update id=376614373 is handled. Duration 481 ms by bot id=7557858368
+2025-07-07 21:14:08,538 - aiogram.event - INFO - Update id=376614374 is handled. Duration 687 ms by bot id=7557858368
+2025-07-07 21:14:15,089 - aiogram.event - INFO - Update id=376614375 is handled. Duration 1254 ms by bot id=7557858368
+2025-07-07 21:14:19,354 - aiogram.event - INFO - Update id=376614376 is handled. Duration 321 ms by bot id=7557858368
+2025-07-07 21:14:26,117 - aiogram.event - INFO - Update id=376614377 is handled. Duration 2003 ms by bot id=7557858368
+2025-07-07 21:14:30,260 - aiogram.event - INFO - Update id=376614378 is handled. Duration 655 ms by bot id=7557858368
+2025-07-07 21:14:34,846 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-07 21:14:35,124 - aiogram.event - INFO - Update id=376614379 is handled. Duration 992 ms by bot id=7557858368
+2025-07-07 21:14:42,920 - __main__ - INFO - Жалоба #864497192 опубликована в канале
+2025-07-07 21:14:44,207 - aiogram.event - INFO - Update id=376614380 is handled. Duration 1696 ms by bot id=7557858368
+2025-07-07 21:18:12,081 - __main__ - INFO - Запуск бота...
+2025-07-07 21:18:14,366 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-07 21:18:14,366 - aiogram.dispatcher - INFO - Start polling
+2025-07-07 21:18:14,801 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-07 21:18:44,201 - aiogram.event - INFO - Update id=376614381 is handled. Duration 709 ms by bot id=7557858368
+2025-07-07 21:18:48,821 - aiogram.event - INFO - Update id=376614382 is handled. Duration 181 ms by bot id=7557858368
+2025-07-07 21:19:04,351 - aiogram.event - INFO - Update id=376614384 is not handled. Duration 1 ms by bot id=7557858368
+2025-07-07 21:19:04,632 - aiogram.event - INFO - Update id=376614383 is handled. Duration 2124 ms by bot id=7557858368
+2025-07-07 21:19:26,542 - aiogram.event - INFO - Update id=376614385 is handled. Duration 1262 ms by bot id=7557858368
+2025-07-07 21:19:39,714 - aiogram.event - INFO - Update id=376614386 is handled. Duration 284 ms by bot id=7557858368
+2025-07-07 21:19:44,951 - aiogram.event - INFO - Update id=376614387 is handled. Duration 243 ms by bot id=7557858368
+2025-07-07 21:19:49,041 - aiogram.event - INFO - Update id=376614388 is handled. Duration 243 ms by bot id=7557858368
+2025-07-07 21:19:55,188 - aiogram.event - INFO - Update id=376614389 is handled. Duration 152 ms by bot id=7557858368
+2025-07-07 21:20:01,104 - aiogram.event - INFO - Update id=376614390 is handled. Duration 252 ms by bot id=7557858368
+2025-07-07 21:20:04,100 - aiogram.event - INFO - Update id=376614392 is handled. Duration 726 ms by bot id=7557858368
+2025-07-07 21:20:04,164 - aiogram.event - INFO - Update id=376614393 is handled. Duration 666 ms by bot id=7557858368
+2025-07-07 21:20:04,412 - aiogram.event - INFO - Update id=376614394 is handled. Duration 755 ms by bot id=7557858368
+2025-07-07 21:20:04,914 - aiogram.event - INFO - Update id=376614395 is handled. Duration 952 ms by bot id=7557858368
+2025-07-07 21:20:05,115 - aiogram.event - INFO - Update id=376614391 is handled. Duration 2025 ms by bot id=7557858368
+2025-07-07 21:20:10,403 - aiogram.event - INFO - Update id=376614396 is handled. Duration 672 ms by bot id=7557858368
+2025-07-07 21:20:11,793 - aiogram.event - INFO - Update id=376614397 is handled. Duration 504 ms by bot id=7557858368
+2025-07-07 21:20:13,176 - aiogram.event - INFO - Update id=376614398 is handled. Duration 352 ms by bot id=7557858368
+2025-07-07 21:20:14,024 - aiogram.event - INFO - Update id=376614399 is handled. Duration 381 ms by bot id=7557858368
+2025-07-07 21:20:15,297 - aiogram.event - INFO - Update id=376614400 is handled. Duration 555 ms by bot id=7557858368
+2025-07-07 21:20:19,587 - aiogram.event - INFO - Update id=376614401 is handled. Duration 2021 ms by bot id=7557858368
+2025-07-07 21:20:21,965 - aiogram.event - INFO - Update id=376614402 is handled. Duration 308 ms by bot id=7557858368
+2025-07-07 21:20:24,703 - aiogram.event - INFO - Update id=376614403 is handled. Duration 508 ms by bot id=7557858368
+2025-07-07 21:20:28,100 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-07 21:20:29,360 - aiogram.event - INFO - Update id=376614404 is handled. Duration 2912 ms by bot id=7557858368
+2025-07-07 21:20:34,077 - aiogram.event - INFO - Update id=376614405 is handled. Duration 794 ms by bot id=7557858368
+2025-07-07 21:20:43,256 - aiogram.event - INFO - Update id=376614406 is handled. Duration 626 ms by bot id=7557858368
+2025-07-07 21:20:52,861 - aiogram.event - INFO - Update id=376614407 is handled. Duration 318 ms by bot id=7557858368
+2025-07-07 21:20:57,559 - aiogram.event - INFO - Update id=376614408 is handled. Duration 938 ms by bot id=7557858368
+2025-07-07 21:21:00,192 - aiogram.event - INFO - Update id=376614409 is handled. Duration 1321 ms by bot id=7557858368
+2025-07-07 21:21:09,600 - aiogram.event - INFO - Update id=376614410 is handled. Duration 823 ms by bot id=7557858368
+2025-07-07 21:21:16,677 - aiogram.event - INFO - Update id=376614411 is handled. Duration 265 ms by bot id=7557858368
+2025-07-07 21:21:22,682 - aiogram.event - INFO - Update id=376614412 is handled. Duration 1266 ms by bot id=7557858368
+2025-07-07 21:21:30,351 - aiogram.event - INFO - Update id=376614413 is handled. Duration 266 ms by bot id=7557858368
+2025-07-07 21:21:36,140 - aiogram.event - INFO - Update id=376614414 is handled. Duration 1724 ms by bot id=7557858368
+2025-07-07 21:21:40,728 - aiogram.event - INFO - Update id=376614415 is handled. Duration 710 ms by bot id=7557858368
+2025-07-07 21:21:47,344 - aiogram.event - INFO - Update id=376614416 is handled. Duration 356 ms by bot id=7557858368
+2025-07-07 21:21:59,420 - aiogram.event - INFO - Update id=376614417 is handled. Duration 1255 ms by bot id=7557858368
+2025-07-07 21:22:02,010 - aiogram.event - INFO - Update id=376614418 is handled. Duration 832 ms by bot id=7557858368
+2025-07-07 21:22:09,364 - __main__ - INFO - Жалоба #864497192 опубликована в канале
+2025-07-07 21:22:10,048 - aiogram.event - INFO - Update id=376614419 is handled. Duration 914 ms by bot id=7557858368
+2025-07-07 21:25:31,665 - aiogram.event - INFO - Update id=376614420 is handled. Duration 243 ms by bot id=7557858368
+2025-07-08 00:00:17,425 - __main__ - INFO - Запуск бота...
+2025-07-08 00:00:17,426 - aiogram.dispatcher - INFO - Start polling
+2025-07-08 00:00:18,039 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-08 00:00:45,989 - aiogram.event - INFO - Update id=376614421 is handled. Duration 950 ms by bot id=7557858368
+2025-07-08 00:02:54,710 - aiogram.event - INFO - Update id=376614422 is handled. Duration 429 ms by bot id=7557858368
+2025-07-08 00:03:10,271 - aiogram.event - INFO - Update id=376614423 is handled. Duration 266 ms by bot id=7557858368
+2025-07-08 00:03:10,596 - aiogram.event - INFO - Update id=376614424 is handled. Duration 591 ms by bot id=7557858368
+2025-07-08 00:03:17,600 - aiogram.event - INFO - Update id=376614425 is handled. Duration 2109 ms by bot id=7557858368
+2025-07-08 00:03:29,142 - aiogram.event - INFO - Update id=376614426 is handled. Duration 529 ms by bot id=7557858368
+2025-07-08 00:03:35,186 - aiogram.event - INFO - Update id=376614427 is handled. Duration 1084 ms by bot id=7557858368
+2025-07-08 00:03:40,140 - aiogram.event - INFO - Update id=376614428 is handled. Duration 718 ms by bot id=7557858368
+2025-07-08 00:03:45,329 - aiogram.event - INFO - Update id=376614429 is handled. Duration 135 ms by bot id=7557858368
+2025-07-08 00:03:56,327 - aiogram.event - INFO - Update id=376614430 is handled. Duration 374 ms by bot id=7557858368
+2025-07-08 00:04:09,611 - aiogram.event - INFO - Update id=376614431 is handled. Duration 222 ms by bot id=7557858368
+2025-07-08 00:04:13,822 - __main__ - ERROR - Ошибка обработки текста: name 'text_processor' is not defined
+2025-07-08 00:04:14,028 - aiogram.event - INFO - Update id=376614432 is handled. Duration 210 ms by bot id=7557858368
+2025-07-08 00:04:20,439 - aiogram.event - INFO - Update id=376614433 is handled. Duration 592 ms by bot id=7557858368
+2025-07-08 00:04:24,388 - aiogram.event - INFO - Update id=376614434 is handled. Duration 206 ms by bot id=7557858368
+2025-07-08 00:04:28,200 - aiogram.event - INFO - Update id=376614435 is handled. Duration 427 ms by bot id=7557858368
+2025-07-08 00:04:32,094 - aiogram.event - INFO - Update id=376614436 is handled. Duration 1384 ms by bot id=7557858368
+2025-07-08 00:04:46,435 - aiogram.event - INFO - Update id=376614437 is handled. Duration 422 ms by bot id=7557858368
+2025-07-08 00:04:52,984 - aiogram.event - INFO - Update id=376614438 is handled. Duration 1215 ms by bot id=7557858368
+2025-07-08 00:05:00,646 - aiogram.event - INFO - Update id=376614439 is handled. Duration 795 ms by bot id=7557858368
+2025-07-08 00:05:06,067 - aiogram.event - INFO - Update id=376614440 is handled. Duration 441 ms by bot id=7557858368
+2025-07-08 00:05:09,360 - aiogram.event - INFO - Update id=376614441 is handled. Duration 959 ms by bot id=7557858368
+2025-07-08 00:05:12,457 - aiogram.event - INFO - Update id=376614442 is handled. Duration 422 ms by bot id=7557858368
+2025-07-08 00:05:22,229 - aiogram.event - INFO - Update id=376614443 is handled. Duration 512 ms by bot id=7557858368
+2025-07-08 00:07:22,489 - __main__ - ERROR - Ошибка сохранения в черновик по таймеру: 1 validation error for EditMessageText
+business_connection_id
+  Input should be a valid string [type=string_type, input_value=864497192, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-07-08 00:12:09,052 - __main__ - INFO - Запуск бота...
+2025-07-08 00:12:09,053 - aiogram.dispatcher - INFO - Start polling
+2025-07-08 00:12:09,558 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-08 00:12:10,929 - aiogram.event - INFO - Update id=376614444 is not handled. Duration 1275 ms by bot id=7557858368
+2025-07-08 00:12:10,930 - aiogram.event - ERROR - Cause exception while process update id=376614444 by bot id=7557858368
+TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+Traceback (most recent call last):
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\telegram_bot\main_v4_enhanced.py", line 1410, in reminder_yes
+    await callback.answer()
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\bot.py", line 498, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\aiohttp.py", line 189, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-07-08 00:12:17,018 - aiogram.event - INFO - Update id=376614445 is handled. Duration 205 ms by bot id=7557858368
+2025-07-08 00:12:22,701 - aiogram.event - INFO - Update id=376614446 is handled. Duration 177 ms by bot id=7557858368
+2025-07-08 00:12:24,842 - aiogram.event - INFO - Update id=376614447 is handled. Duration 1036 ms by bot id=7557858368
+2025-07-08 00:12:30,022 - aiogram.event - INFO - Update id=376614448 is handled. Duration 348 ms by bot id=7557858368
+2025-07-08 00:12:31,941 - aiogram.event - INFO - Update id=376614449 is handled. Duration 851 ms by bot id=7557858368
+2025-07-08 00:12:35,996 - aiogram.event - INFO - Update id=376614450 is handled. Duration 516 ms by bot id=7557858368
+2025-07-08 00:12:39,976 - aiogram.event - INFO - Update id=376614451 is handled. Duration 878 ms by bot id=7557858368
+2025-07-08 00:12:45,695 - aiogram.event - INFO - Update id=376614452 is handled. Duration 170 ms by bot id=7557858368
+2025-07-08 00:12:50,095 - aiogram.event - INFO - Update id=376614453 is handled. Duration 401 ms by bot id=7557858368
+2025-07-08 00:12:57,281 - __main__ - ERROR - Ошибка обработки текста: name 'text_processor' is not defined
+2025-07-08 00:12:58,038 - aiogram.event - INFO - Update id=376614454 is handled. Duration 759 ms by bot id=7557858368
+2025-07-08 00:13:01,319 - aiogram.event - INFO - Update id=376614455 is handled. Duration 166 ms by bot id=7557858368
+2025-07-08 00:13:03,154 - aiogram.event - INFO - Update id=376614456 is handled. Duration 285 ms by bot id=7557858368
+2025-07-08 00:13:05,933 - aiogram.event - INFO - Update id=376614457 is handled. Duration 132 ms by bot id=7557858368
+2025-07-08 00:13:07,363 - aiogram.event - INFO - Update id=376614458 is handled. Duration 266 ms by bot id=7557858368
+2025-07-08 00:13:10,315 - aiogram.event - INFO - Update id=376614459 is handled. Duration 777 ms by bot id=7557858368
+2025-07-08 00:13:14,104 - aiogram.event - INFO - Update id=376614460 is handled. Duration 271 ms by bot id=7557858368
+2025-07-08 00:13:16,916 - aiogram.event - INFO - Update id=376614461 is handled. Duration 655 ms by bot id=7557858368
+2025-07-08 00:13:18,967 - aiogram.event - INFO - Update id=376614462 is handled. Duration 761 ms by bot id=7557858368
+2025-07-08 00:15:03,744 - __main__ - INFO - Запуск бота...
+2025-07-08 00:15:03,745 - aiogram.dispatcher - INFO - Start polling
+2025-07-08 00:15:05,023 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-08 00:15:05,364 - aiogram.event - INFO - Update id=376614464 is not handled. Duration 20 ms by bot id=7557858368
+2025-07-08 00:15:05,365 - aiogram.event - INFO - Update id=376614463 is not handled. Duration 21 ms by bot id=7557858368
+2025-07-08 00:15:07,955 - aiogram.event - INFO - Update id=376614465 is not handled. Duration 3 ms by bot id=7557858368
+2025-07-08 00:15:14,225 - aiogram.event - INFO - Update id=376614466 is handled. Duration 1459 ms by bot id=7557858368
+2025-07-08 00:15:15,803 - aiogram.event - INFO - Update id=376614467 is not handled. Duration 4 ms by bot id=7557858368
+2025-07-08 00:15:22,219 - aiogram.event - INFO - Update id=376614468 is not handled. Duration 4 ms by bot id=7557858368
+2025-07-08 00:15:24,495 - aiogram.event - INFO - Update id=376614469 is not handled. Duration 4 ms by bot id=7557858368
+2025-07-08 00:17:15,224 - __main__ - ERROR - Ошибка сохранения в черновик по таймеру: 1 validation error for EditMessageText
+business_connection_id
+  Input should be a valid string [type=string_type, input_value=864497192, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-07-08 13:26:23,498 - __main__ - INFO - Запуск бота...
+2025-07-08 13:26:23,499 - aiogram.dispatcher - INFO - Start polling
+2025-07-08 13:26:24,270 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-08 13:26:28,493 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:26:28,494 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7557858368)
+2025-07-08 13:26:34,073 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:26:34,074 - aiogram.dispatcher - WARNING - Sleep for 1.344666 seconds and try again... (tryings = 1, bot id = 7557858368)
+2025-07-08 13:26:40,168 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:26:40,169 - aiogram.dispatcher - WARNING - Sleep for 1.872254 seconds and try again... (tryings = 2, bot id = 7557858368)
+2025-07-08 13:26:47,140 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:26:47,141 - aiogram.dispatcher - WARNING - Sleep for 2.556101 seconds and try again... (tryings = 3, bot id = 7557858368)
+2025-07-08 13:26:55,391 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:26:55,392 - aiogram.dispatcher - WARNING - Sleep for 3.298934 seconds and try again... (tryings = 4, bot id = 7557858368)
+2025-07-08 13:27:02,194 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:27:02,194 - aiogram.dispatcher - WARNING - Sleep for 4.279625 seconds and try again... (tryings = 5, bot id = 7557858368)
+2025-07-08 13:27:10,972 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:27:10,972 - aiogram.dispatcher - WARNING - Sleep for 5.126109 seconds and try again... (tryings = 6, bot id = 7557858368)
+2025-07-08 13:27:20,291 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:27:20,291 - aiogram.dispatcher - WARNING - Sleep for 5.172205 seconds and try again... (tryings = 7, bot id = 7557858368)
+2025-07-08 13:27:30,010 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:27:30,010 - aiogram.dispatcher - WARNING - Sleep for 4.758694 seconds and try again... (tryings = 8, bot id = 7557858368)
+2025-07-08 13:27:35,596 - aiogram.dispatcher - INFO - Connection established (tryings = 9, bot id = 7557858368)
+2025-07-08 13:27:35,599 - aiogram.event - INFO - Update id=376614494 is not handled. Duration 1 ms by bot id=7557858368
+2025-07-08 13:27:35,599 - aiogram.event - ERROR - Cause exception while process update id=376614494 by bot id=7557858368
+NameError: name 'cancel_inactivity_timer' is not defined
+Traceback (most recent call last):
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\telegram_bot\main_v4_enhanced.py", line 273, in show_drafts
+    await cancel_inactivity_timer(user_id)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'cancel_inactivity_timer' is not defined
+2025-07-08 13:27:38,996 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:27:38,997 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7557858368)
+2025-07-08 13:27:40,858 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7557858368)
+2025-07-08 13:27:40,860 - aiogram.event - INFO - Update id=376614497 is not handled. Duration 1 ms by bot id=7557858368
+2025-07-08 13:27:44,264 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:27:44,265 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7557858368)
+2025-07-08 13:27:46,220 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7557858368)
+2025-07-08 13:27:46,222 - aiogram.event - INFO - Update id=376614498 is not handled. Duration 1 ms by bot id=7557858368
+2025-07-08 13:27:50,281 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:27:50,281 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7557858368)
+2025-07-08 13:27:56,246 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:27:56,246 - aiogram.dispatcher - WARNING - Sleep for 1.380395 seconds and try again... (tryings = 1, bot id = 7557858368)
+2025-07-08 13:28:03,215 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:28:03,216 - aiogram.dispatcher - WARNING - Sleep for 1.821677 seconds and try again... (tryings = 2, bot id = 7557858368)
+2025-07-08 13:28:08,398 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:28:08,398 - aiogram.dispatcher - WARNING - Sleep for 2.378350 seconds and try again... (tryings = 3, bot id = 7557858368)
+2025-07-08 13:28:18,077 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:28:18,077 - aiogram.dispatcher - WARNING - Sleep for 3.053490 seconds and try again... (tryings = 4, bot id = 7557858368)
+2025-07-08 13:28:26,331 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:28:26,331 - aiogram.dispatcher - WARNING - Sleep for 4.073527 seconds and try again... (tryings = 5, bot id = 7557858368)
+2025-07-08 13:28:35,702 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:28:35,702 - aiogram.dispatcher - WARNING - Sleep for 5.044624 seconds and try again... (tryings = 6, bot id = 7557858368)
+2025-07-08 13:28:46,273 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:28:46,274 - aiogram.dispatcher - WARNING - Sleep for 4.827312 seconds and try again... (tryings = 7, bot id = 7557858368)
+2025-07-08 13:28:56,465 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:28:56,465 - aiogram.dispatcher - WARNING - Sleep for 5.119905 seconds and try again... (tryings = 8, bot id = 7557858368)
+2025-07-08 13:29:06,853 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:29:06,853 - aiogram.dispatcher - WARNING - Sleep for 5.018830 seconds and try again... (tryings = 9, bot id = 7557858368)
+2025-07-08 13:29:17,134 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:29:17,134 - aiogram.dispatcher - WARNING - Sleep for 5.019199 seconds and try again... (tryings = 10, bot id = 7557858368)
+2025-07-08 13:29:27,460 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:29:27,461 - aiogram.dispatcher - WARNING - Sleep for 5.020747 seconds and try again... (tryings = 11, bot id = 7557858368)
+2025-07-08 13:29:37,854 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:29:37,854 - aiogram.dispatcher - WARNING - Sleep for 5.048124 seconds and try again... (tryings = 12, bot id = 7557858368)
+2025-07-08 13:29:43,101 - aiogram.dispatcher - INFO - Connection established (tryings = 13, bot id = 7557858368)
+2025-07-08 13:29:43,829 - aiogram.event - INFO - Update id=376614499 is handled. Duration 726 ms by bot id=7557858368
+2025-07-08 13:29:46,445 - aiogram.event - INFO - Update id=376614500 is not handled. Duration 2 ms by bot id=7557858368
+2025-07-08 13:29:46,445 - aiogram.event - ERROR - Cause exception while process update id=376614500 by bot id=7557858368
+NameError: name 'cancel_inactivity_timer' is not defined
+Traceback (most recent call last):
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dzhol\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\telegram_bot\main_v4_enhanced.py", line 273, in show_drafts
+    await cancel_inactivity_timer(user_id)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'cancel_inactivity_timer' is not defined
+2025-07-08 13:29:47,905 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:29:47,905 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7557858368)
+2025-07-08 13:29:57,065 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-08 13:29:57,065 - aiogram.dispatcher - WARNING - Sleep for 1.524313 seconds and try again... (tryings = 1, bot id = 7557858368)
+2025-07-08 13:35:19,609 - __main__ - INFO - Запуск бота...
+2025-07-08 13:35:19,610 - aiogram.dispatcher - INFO - Start polling
+2025-07-08 13:35:20,142 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-08 13:35:20,713 - aiogram.event - INFO - Update id=376614502 is handled. Duration 475 ms by bot id=7557858368
+2025-07-08 13:35:20,718 - aiogram.event - INFO - Update id=376614504 is handled. Duration 479 ms by bot id=7557858368
+2025-07-08 13:35:20,794 - aiogram.event - INFO - Update id=376614501 is handled. Duration 556 ms by bot id=7557858368
+2025-07-08 13:35:20,823 - aiogram.event - INFO - Update id=376614503 is handled. Duration 585 ms by bot id=7557858368
+2025-07-08 13:35:42,669 - aiogram.event - INFO - Update id=376614505 is handled. Duration 328 ms by bot id=7557858368
+2025-07-08 13:35:45,529 - aiogram.event - INFO - Update id=376614506 is handled. Duration 195 ms by bot id=7557858368
+2025-07-08 13:35:52,730 - aiogram.event - INFO - Update id=376614507 is handled. Duration 138 ms by bot id=7557858368
+2025-07-08 13:35:55,741 - aiogram.event - INFO - Update id=376614508 is handled. Duration 162 ms by bot id=7557858368
+2025-07-08 13:35:57,257 - aiogram.event - INFO - Update id=376614509 is handled. Duration 145 ms by bot id=7557858368
+2025-07-08 13:36:01,016 - aiogram.event - INFO - Update id=376614510 is handled. Duration 139 ms by bot id=7557858368
+2025-07-08 13:36:11,117 - aiogram.event - INFO - Update id=376614511 is not handled. Duration 1 ms by bot id=7557858368
+2025-07-08 13:36:23,426 - aiogram.event - INFO - Update id=376614512 is not handled. Duration 1 ms by bot id=7557858368
+2025-07-08 14:25:07,918 - __main__ - INFO - Запуск бота...
+2025-07-08 14:25:08,223 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-08 14:25:08,223 - aiogram.dispatcher - INFO - Start polling
+2025-07-08 14:25:08,316 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-08 14:25:19,438 - aiogram.event - INFO - Update id=376614538 is not handled. Duration 4 ms by bot id=7557858368
+2025-07-08 14:25:24,773 - aiogram.event - INFO - Update id=376614539 is handled. Duration 329 ms by bot id=7557858368
+2025-07-08 14:25:26,901 - aiogram.event - INFO - Update id=376614540 is handled. Duration 211 ms by bot id=7557858368
+2025-07-08 14:25:28,216 - aiogram.event - INFO - Update id=376614541 is handled. Duration 126 ms by bot id=7557858368
+2025-07-08 14:25:30,219 - aiogram.event - INFO - Update id=376614542 is handled. Duration 118 ms by bot id=7557858368
+2025-07-08 14:25:37,097 - aiogram.event - INFO - Update id=376614543 is handled. Duration 107 ms by bot id=7557858368
+2025-07-08 14:25:42,488 - aiogram.event - INFO - Update id=376614544 is handled. Duration 173 ms by bot id=7557858368
+2025-07-08 14:25:51,036 - aiogram.event - INFO - Update id=376614545 is handled. Duration 166 ms by bot id=7557858368
+2025-07-08 14:25:55,042 - aiogram.event - INFO - Update id=376614546 is handled. Duration 443 ms by bot id=7557858368
+2025-07-08 14:26:11,140 - aiogram.event - INFO - Update id=376614547 is handled. Duration 118 ms by bot id=7557858368
+2025-07-08 14:26:16,757 - aiogram.event - INFO - Update id=376614548 is handled. Duration 106 ms by bot id=7557858368
+2025-07-08 14:34:28,853 - __main__ - INFO - Запуск бота...
+2025-07-08 14:34:29,147 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-08 14:34:29,147 - aiogram.dispatcher - INFO - Start polling
+2025-07-08 14:34:29,232 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-08 14:34:39,492 - aiogram.event - INFO - Update id=376614549 is handled. Duration 362 ms by bot id=7557858368
+2025-07-08 14:34:42,257 - aiogram.event - INFO - Update id=376614550 is handled. Duration 189 ms by bot id=7557858368
+2025-07-08 14:34:47,643 - aiogram.event - INFO - Update id=376614551 is handled. Duration 104 ms by bot id=7557858368
+2025-07-08 14:34:53,651 - aiogram.event - INFO - Update id=376614552 is handled. Duration 220 ms by bot id=7557858368
+2025-07-08 14:34:55,331 - aiogram.event - INFO - Update id=376614553 is handled. Duration 339 ms by bot id=7557858368
+2025-07-08 14:35:02,214 - aiogram.event - INFO - Update id=376614554 is handled. Duration 131 ms by bot id=7557858368
+2025-07-08 14:35:20,616 - aiogram.event - INFO - Update id=376614555 is handled. Duration 140 ms by bot id=7557858368
+2025-07-08 14:35:27,001 - aiogram.event - INFO - Update id=376614556 is handled. Duration 121 ms by bot id=7557858368
+2025-07-08 14:35:32,999 - aiogram.event - INFO - Update id=376614557 is handled. Duration 122 ms by bot id=7557858368
+2025-07-08 14:35:36,602 - aiogram.event - INFO - Update id=376614558 is handled. Duration 149 ms by bot id=7557858368
+2025-07-08 14:35:38,571 - aiogram.event - INFO - Update id=376614559 is handled. Duration 261 ms by bot id=7557858368
+2025-07-08 14:35:39,887 - aiogram.event - INFO - Update id=376614560 is handled. Duration 258 ms by bot id=7557858368
+2025-07-08 14:35:40,765 - aiogram.event - INFO - Update id=376614561 is handled. Duration 332 ms by bot id=7557858368
+2025-07-08 14:35:42,365 - aiogram.event - INFO - Update id=376614562 is handled. Duration 253 ms by bot id=7557858368
+2025-07-08 14:35:43,866 - aiogram.event - INFO - Update id=376614563 is handled. Duration 824 ms by bot id=7557858368
+2025-07-08 14:35:45,303 - aiogram.event - INFO - Update id=376614564 is handled. Duration 298 ms by bot id=7557858368
+2025-07-08 14:35:48,939 - aiogram.event - INFO - Update id=376614565 is handled. Duration 131 ms by bot id=7557858368
+2025-07-08 14:35:50,566 - aiogram.event - INFO - Update id=376614566 is handled. Duration 240 ms by bot id=7557858368
+2025-07-08 14:35:54,793 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-08 14:35:54,909 - aiogram.event - INFO - Update id=376614567 is handled. Duration 652 ms by bot id=7557858368
+2025-07-08 14:36:00,279 - aiogram.event - INFO - Update id=376614568 is handled. Duration 310 ms by bot id=7557858368
+2025-07-08 15:49:43,011 - __main__ - INFO - Запуск бота...
+2025-07-08 15:49:43,653 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-08 15:49:43,653 - aiogram.dispatcher - INFO - Start polling
+2025-07-08 15:49:43,746 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-08 15:50:10,669 - aiogram.event - INFO - Update id=376614569 is handled. Duration 452 ms by bot id=7557858368
+2025-07-08 15:50:12,954 - aiogram.event - INFO - Update id=376614570 is handled. Duration 203 ms by bot id=7557858368
+2025-07-08 15:50:26,866 - aiogram.event - INFO - Update id=376614571 is handled. Duration 186 ms by bot id=7557858368
+2025-07-08 15:50:33,004 - aiogram.event - INFO - Update id=376614572 is handled. Duration 109 ms by bot id=7557858368
+2025-07-08 15:50:45,396 - aiogram.event - INFO - Update id=376614573 is handled. Duration 155 ms by bot id=7557858368
+2025-07-08 15:50:47,759 - aiogram.event - INFO - Update id=376614574 is handled. Duration 813 ms by bot id=7557858368
+2025-07-08 15:50:56,157 - aiogram.event - INFO - Update id=376614575 is handled. Duration 171 ms by bot id=7557858368
+2025-07-08 15:51:01,382 - aiogram.event - INFO - Update id=376614576 is handled. Duration 155 ms by bot id=7557858368
+2025-07-08 15:51:12,730 - aiogram.event - INFO - Update id=376614577 is handled. Duration 171 ms by bot id=7557858368
+2025-07-08 15:51:22,643 - aiogram.event - INFO - Update id=376614578 is handled. Duration 171 ms by bot id=7557858368
+2025-07-08 15:51:24,373 - aiogram.event - INFO - Update id=376614579 is handled. Duration 234 ms by bot id=7557858368
+2025-07-08 15:51:25,822 - aiogram.event - INFO - Update id=376614580 is handled. Duration 530 ms by bot id=7557858368
+2025-07-08 15:51:27,601 - aiogram.event - INFO - Update id=376614581 is handled. Duration 234 ms by bot id=7557858368
+2025-07-08 15:51:28,491 - aiogram.event - INFO - Update id=376614582 is handled. Duration 311 ms by bot id=7557858368
+2025-07-08 15:51:30,863 - aiogram.event - INFO - Update id=376614583 is handled. Duration 328 ms by bot id=7557858368
+2025-07-08 15:51:31,976 - aiogram.event - INFO - Update id=376614584 is handled. Duration 313 ms by bot id=7557858368
+2025-07-08 15:51:34,604 - aiogram.event - INFO - Update id=376614585 is handled. Duration 328 ms by bot id=7557858368
+2025-07-08 15:51:39,323 - aiogram.event - INFO - Update id=376614586 is handled. Duration 125 ms by bot id=7557858368
+2025-07-08 15:51:41,846 - aiogram.event - INFO - Update id=376614587 is handled. Duration 265 ms by bot id=7557858368
+2025-07-08 15:51:43,399 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-08 15:51:43,492 - aiogram.event - INFO - Update id=376614588 is handled. Duration 484 ms by bot id=7557858368
+2025-07-08 15:51:51,179 - aiogram.event - INFO - Update id=376614589 is handled. Duration 657 ms by bot id=7557858368
+2025-07-08 15:51:53,976 - aiogram.event - INFO - Update id=376614590 is handled. Duration 328 ms by bot id=7557858368
+2025-07-08 15:51:57,259 - __main__ - ERROR - Ошибка запроса причины отклонения: invalid literal for int() with base 10: 'reason'
+2025-07-08 15:51:57,457 - aiogram.event - INFO - Update id=376614591 is handled. Duration 219 ms by bot id=7557858368
+2025-07-08 15:51:58,892 - __main__ - ERROR - Ошибка отклонения жалобы без причины: invalid literal for int() with base 10: 'reason'
+2025-07-08 15:51:59,005 - aiogram.event - INFO - Update id=376614592 is handled. Duration 125 ms by bot id=7557858368
+2025-07-08 15:52:03,079 - __main__ - INFO - Жалоба #864497192 опубликована в канале
+2025-07-08 15:52:03,388 - aiogram.event - INFO - Update id=376614593 is handled. Duration 515 ms by bot id=7557858368
+2025-07-08 15:55:16,635 - __main__ - INFO - Запуск бота...
+2025-07-08 15:55:17,155 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-08 15:55:17,156 - aiogram.dispatcher - INFO - Start polling
+2025-07-08 15:55:17,240 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-08 15:55:23,473 - aiogram.event - INFO - Update id=376614594 is handled. Duration 344 ms by bot id=7557858368
+2025-07-08 15:55:30,438 - aiogram.event - INFO - Update id=376614595 is handled. Duration 125 ms by bot id=7557858368
+2025-07-08 15:55:45,461 - aiogram.event - INFO - Update id=376614596 is handled. Duration 344 ms by bot id=7557858368
+2025-07-08 15:55:47,793 - aiogram.event - INFO - Update id=376614597 is handled. Duration 311 ms by bot id=7557858368
+2025-07-08 15:55:56,322 - aiogram.event - INFO - Update id=376614598 is handled. Duration 171 ms by bot id=7557858368
+2025-07-08 15:56:01,508 - aiogram.event - INFO - Update id=376614599 is handled. Duration 155 ms by bot id=7557858368
+2025-07-08 15:56:06,888 - aiogram.event - INFO - Update id=376614600 is handled. Duration 188 ms by bot id=7557858368
+2025-07-08 15:56:12,839 - aiogram.event - INFO - Update id=376614601 is handled. Duration 155 ms by bot id=7557858368
+2025-07-08 15:56:14,839 - aiogram.event - INFO - Update id=376614602 is handled. Duration 313 ms by bot id=7557858368
+2025-07-08 15:56:15,113 - aiogram.event - INFO - Update id=376614603 is handled. Duration 280 ms by bot id=7557858368
+2025-07-08 15:56:15,892 - aiogram.event - INFO - Update id=376614604 is handled. Duration 217 ms by bot id=7557858368
+2025-07-08 15:56:17,183 - aiogram.event - INFO - Update id=376614605 is handled. Duration 563 ms by bot id=7557858368
+2025-07-08 15:56:19,000 - aiogram.event - INFO - Update id=376614606 is handled. Duration 313 ms by bot id=7557858368
+2025-07-08 15:56:20,329 - aiogram.event - INFO - Update id=376614607 is handled. Duration 405 ms by bot id=7557858368
+2025-07-08 15:56:22,304 - aiogram.event - INFO - Update id=376614608 is handled. Duration 578 ms by bot id=7557858368
+2025-07-08 15:56:24,963 - aiogram.event - INFO - Update id=376614609 is handled. Duration 375 ms by bot id=7557858368
+2025-07-08 15:56:26,266 - aiogram.event - INFO - Update id=376614610 is handled. Duration 234 ms by bot id=7557858368
+2025-07-08 15:56:31,028 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-08 15:56:31,164 - aiogram.event - INFO - Update id=376614611 is handled. Duration 577 ms by bot id=7557858368
+2025-07-08 15:56:34,367 - aiogram.event - INFO - Update id=376614612 is handled. Duration 219 ms by bot id=7557858368
+2025-07-08 15:56:42,315 - aiogram.event - INFO - Update id=376614613 is handled. Duration 342 ms by bot id=7557858368
+2025-07-08 15:57:01,263 - aiogram.event - INFO - Update id=376614614 is handled. Duration 375 ms by bot id=7557858368
+2025-07-08 15:57:06,612 - aiogram.event - INFO - Update id=376614615 is handled. Duration 234 ms by bot id=7557858368
+2025-07-08 15:57:09,637 - aiogram.event - INFO - Update id=376614616 is handled. Duration 140 ms by bot id=7557858368
+2025-07-08 15:57:11,282 - aiogram.event - INFO - Update id=376614617 is handled. Duration 358 ms by bot id=7557858368
+2025-07-08 15:57:15,996 - aiogram.event - INFO - Update id=376614618 is handled. Duration 155 ms by bot id=7557858368
+2025-07-08 15:57:19,882 - aiogram.event - INFO - Update id=376614619 is handled. Duration 125 ms by bot id=7557858368
+2025-07-08 15:57:30,455 - aiogram.event - INFO - Update id=376614620 is handled. Duration 219 ms by bot id=7557858368
+2025-07-08 15:57:34,431 - aiogram.event - INFO - Update id=376614621 is handled. Duration 125 ms by bot id=7557858368
+2025-07-08 15:57:36,231 - aiogram.event - INFO - Update id=376614622 is handled. Duration 250 ms by bot id=7557858368
+2025-07-08 15:57:36,553 - aiogram.event - INFO - Update id=376614623 is handled. Duration 438 ms by bot id=7557858368
+2025-07-08 15:57:36,560 - aiogram.event - INFO - Update id=376614624 is handled. Duration 219 ms by bot id=7557858368
+2025-07-08 15:57:37,002 - aiogram.event - INFO - Update id=376614625 is handled. Duration 265 ms by bot id=7557858368
+2025-07-08 15:57:37,132 - aiogram.event - INFO - Update id=376614626 is handled. Duration 265 ms by bot id=7557858368
+2025-07-08 15:57:42,486 - aiogram.event - INFO - Update id=376614627 is handled. Duration 359 ms by bot id=7557858368
+2025-07-08 15:57:47,253 - aiogram.event - INFO - Update id=376614628 is handled. Duration 530 ms by bot id=7557858368
+2025-07-08 15:57:47,879 - aiogram.event - INFO - Update id=376614629 is handled. Duration 313 ms by bot id=7557858368
+2025-07-08 15:57:49,512 - aiogram.event - INFO - Update id=376614630 is handled. Duration 327 ms by bot id=7557858368
+2025-07-08 15:57:55,693 - aiogram.event - INFO - Update id=376614631 is handled. Duration 155 ms by bot id=7557858368
+2025-07-08 15:58:14,043 - aiogram.event - INFO - Update id=376614632 is handled. Duration 608 ms by bot id=7557858368
+2025-07-08 15:58:17,763 - aiogram.event - INFO - Update id=376614633 is handled. Duration 327 ms by bot id=7557858368
+2025-07-08 15:58:19,667 - aiogram.event - INFO - Update id=376614634 is handled. Duration 125 ms by bot id=7557858368
+2025-07-08 15:58:22,041 - aiogram.event - INFO - Update id=376614635 is handled. Duration 327 ms by bot id=7557858368
+2025-07-08 15:58:24,006 - aiogram.event - INFO - Update id=376614636 is handled. Duration 202 ms by bot id=7557858368
+2025-07-08 15:58:25,631 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-08 15:58:25,712 - aiogram.event - INFO - Update id=376614637 is handled. Duration 405 ms by bot id=7557858368
+2025-07-08 15:58:29,201 - aiogram.event - INFO - Update id=376614638 is handled. Duration 577 ms by bot id=7557858368
+2025-07-08 15:58:32,728 - aiogram.event - INFO - Update id=376614639 is handled. Duration 125 ms by bot id=7557858368
+2025-07-08 15:58:39,978 - aiogram.event - INFO - Update id=376614640 is handled. Duration 140 ms by bot id=7557858368
+2025-07-08 15:58:43,119 - aiogram.event - INFO - Update id=376614641 is handled. Duration 109 ms by bot id=7557858368
+2025-07-08 15:58:44,941 - aiogram.event - INFO - Update id=376614642 is handled. Duration 296 ms by bot id=7557858368
+2025-07-08 15:58:49,082 - aiogram.event - INFO - Update id=376614643 is handled. Duration 141 ms by bot id=7557858368
+2025-07-08 15:58:53,948 - aiogram.event - INFO - Update id=376614644 is handled. Duration 125 ms by bot id=7557858368
+2025-07-08 15:58:57,756 - aiogram.event - INFO - Update id=376614645 is handled. Duration 140 ms by bot id=7557858368
+2025-07-08 15:59:01,927 - aiogram.event - INFO - Update id=376614646 is handled. Duration 188 ms by bot id=7557858368
+2025-07-08 15:59:03,749 - aiogram.event - INFO - Update id=376614647 is handled. Duration 155 ms by bot id=7557858368
+2025-07-08 15:59:05,538 - aiogram.event - INFO - Update id=376614648 is handled. Duration 280 ms by bot id=7557858368
+2025-07-08 15:59:05,896 - aiogram.event - INFO - Update id=376614649 is handled. Duration 217 ms by bot id=7557858368
+2025-07-08 15:59:08,434 - aiogram.event - INFO - Update id=376614650 is handled. Duration 202 ms by bot id=7557858368
+2025-07-08 15:59:09,072 - aiogram.event - INFO - Update id=376614651 is handled. Duration 218 ms by bot id=7557858368
+2025-07-08 15:59:09,802 - aiogram.event - INFO - Update id=376614652 is handled. Duration 93 ms by bot id=7557858368
+2025-07-08 15:59:11,967 - aiogram.event - INFO - Update id=376614653 is handled. Duration 188 ms by bot id=7557858368
+2025-07-08 15:59:13,384 - aiogram.event - INFO - Update id=376614654 is handled. Duration 516 ms by bot id=7557858368
+2025-07-08 15:59:14,811 - aiogram.event - INFO - Update id=376614655 is handled. Duration 281 ms by bot id=7557858368
+2025-07-08 15:59:16,722 - aiogram.event - INFO - Update id=376614656 is handled. Duration 406 ms by bot id=7557858368
+2025-07-08 15:59:17,763 - aiogram.event - INFO - Update id=376614657 is handled. Duration 391 ms by bot id=7557858368
+2025-07-08 15:59:20,875 - aiogram.event - INFO - Update id=376614658 is handled. Duration 375 ms by bot id=7557858368
+2025-07-08 15:59:23,908 - aiogram.event - INFO - Update id=376614659 is handled. Duration 172 ms by bot id=7557858368
+2025-07-08 15:59:25,640 - aiogram.event - INFO - Update id=376614660 is handled. Duration 266 ms by bot id=7557858368
+2025-07-08 15:59:27,495 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-08 15:59:27,663 - aiogram.event - INFO - Update id=376614661 is handled. Duration 577 ms by bot id=7557858368
+2025-07-08 15:59:44,103 - aiogram.event - INFO - Update id=376614662 is handled. Duration 547 ms by bot id=7557858368
+2025-07-08 15:59:46,404 - aiogram.event - INFO - Update id=376614663 is handled. Duration 311 ms by bot id=7557858368
+2025-07-08 15:59:49,880 - aiogram.event - INFO - Update id=376614664 is handled. Duration 188 ms by bot id=7557858368
+2025-07-08 15:59:55,117 - aiogram.event - INFO - Update id=376614665 is handled. Duration 389 ms by bot id=7557858368
+2025-07-08 15:59:58,797 - aiogram.event - INFO - Update id=376614666 is handled. Duration 718 ms by bot id=7557858368
+2025-07-08 16:00:00,639 - aiogram.event - INFO - Update id=376614667 is handled. Duration 438 ms by bot id=7557858368
+2025-07-08 16:00:04,261 - __main__ - INFO - Жалоба #864497192 опубликована в канале
+2025-07-08 16:00:04,567 - aiogram.event - INFO - Update id=376614668 is handled. Duration 515 ms by bot id=7557858368
+2025-07-08 16:03:10,416 - __main__ - INFO - Запуск бота...
+2025-07-08 16:03:10,813 - __main__ - INFO - Бот запущен: @prodloshkachb_bot
+2025-07-08 16:03:10,814 - aiogram.dispatcher - INFO - Start polling
+2025-07-08 16:03:10,912 - aiogram.dispatcher - INFO - Run polling for bot @prodloshkachb_bot id=7557858368 - 'Предложка | Черный список водителей | База для перевозчиков'
+2025-07-08 16:03:29,735 - aiogram.event - INFO - Update id=376614669 is handled. Duration 405 ms by bot id=7557858368
+2025-07-08 16:03:32,404 - aiogram.event - INFO - Update id=376614670 is handled. Duration 125 ms by bot id=7557858368
+2025-07-08 16:03:49,605 - aiogram.event - INFO - Update id=376614671 is handled. Duration 406 ms by bot id=7557858368
+2025-07-08 16:03:55,661 - aiogram.event - INFO - Update id=376614672 is handled. Duration 280 ms by bot id=7557858368
+2025-07-08 16:03:59,688 - aiogram.event - INFO - Update id=376614673 is handled. Duration 297 ms by bot id=7557858368
+2025-07-08 16:04:03,489 - aiogram.event - INFO - Update id=376614674 is handled. Duration 171 ms by bot id=7557858368
+2025-07-08 16:04:07,863 - aiogram.event - INFO - Update id=376614675 is handled. Duration 139 ms by bot id=7557858368
+2025-07-08 16:04:17,751 - aiogram.event - INFO - Update id=376614676 is handled. Duration 141 ms by bot id=7557858368
+2025-07-08 16:04:21,129 - aiogram.event - INFO - Update id=376614677 is handled. Duration 125 ms by bot id=7557858368
+2025-07-08 16:04:22,473 - aiogram.event - INFO - Update id=376614678 is handled. Duration 250 ms by bot id=7557858368
+2025-07-08 16:04:23,307 - aiogram.event - INFO - Update id=376614679 is handled. Duration 343 ms by bot id=7557858368
+2025-07-08 16:04:24,395 - aiogram.event - INFO - Update id=376614680 is handled. Duration 359 ms by bot id=7557858368
+2025-07-08 16:04:26,008 - aiogram.event - INFO - Update id=376614681 is handled. Duration 360 ms by bot id=7557858368
+2025-07-08 16:04:28,847 - aiogram.event - INFO - Update id=376614682 is handled. Duration 156 ms by bot id=7557858368
+2025-07-08 16:04:30,148 - aiogram.event - INFO - Update id=376614683 is handled. Duration 218 ms by bot id=7557858368
+2025-07-08 16:04:31,425 - __main__ - INFO - Жалоба #864497192 отправлена админу
+2025-07-08 16:04:31,524 - aiogram.event - INFO - Update id=376614684 is handled. Duration 468 ms by bot id=7557858368
+2025-07-08 16:04:35,267 - __main__ - INFO - Жалоба #864497192 опубликована в канале
+2025-07-08 16:04:35,770 - aiogram.event - INFO - Update id=376614685 is handled. Duration 827 ms by bot id=7557858368
+2025-07-08 16:44:44,548 - aiogram.event - INFO - Update id=376614686 is handled. Duration 438 ms by bot id=7557858368
+2025-07-08 16:44:52,768 - aiogram.event - INFO - Update id=376614687 is handled. Duration 171 ms by bot id=7557858368
+2025-07-08 16:45:01,502 - aiogram.event - INFO - Update id=376614688 is handled. Duration 125 ms by bot id=7557858368
+2025-07-08 16:45:06,022 - aiogram.event - INFO - Update id=376614689 is handled. Duration 718 ms by bot id=7557858368
+2025-07-08 16:45:16,673 - aiogram.event - INFO - Update id=376614690 is handled. Duration 140 ms by bot id=7557858368
+2025-07-08 16:45:23,993 - aiogram.event - INFO - Update id=376614691 is handled. Duration 139 ms by bot id=7557858368
+2025-07-08 16:45:31,566 - aiogram.event - INFO - Update id=376614692 is handled. Duration 172 ms by bot id=7557858368
+2025-07-08 16:45:46,188 - aiogram.event - INFO - Update id=376614693 is handled. Duration 156 ms by bot id=7557858368
+2025-07-08 16:45:54,534 - aiogram.event - INFO - Update id=376614694 is handled. Duration 218 ms by bot id=7557858368
+2025-07-08 16:45:57,206 - aiogram.event - INFO - Update id=376614695 is handled. Duration 375 ms by bot id=7557858368
+2025-07-08 16:45:59,636 - aiogram.event - INFO - Update id=376614696 is handled. Duration 469 ms by bot id=7557858368
+2025-07-08 16:46:10,741 - aiogram.event - INFO - Update id=376614697 is handled. Duration 250 ms by bot id=7557858368
+2025-07-08 16:46:13,863 - aiogram.event - INFO - Update id=376614698 is handled. Duration 327 ms by bot id=7557858368
+2025-07-08 16:46:18,209 - aiogram.event - INFO - Update id=376614699 is handled. Duration 297 ms by bot id=7557858368
+2025-07-08 16:46:23,350 - aiogram.event - INFO - Update id=376614700 is handled. Duration 172 ms by bot id=7557858368
+2025-07-08 16:46:30,454 - aiogram.event - INFO - Update id=376614701 is handled. Duration 313 ms by bot id=7557858368
+2025-07-08 16:46:39,530 - aiogram.event - INFO - Update id=376614702 is handled. Duration 327 ms by bot id=7557858368
+2025-07-08 16:46:47,709 - aiogram.event - INFO - Update id=376614703 is handled. Duration 281 ms by bot id=7557858368
+2025-07-08 16:46:50,495 - __main__ - INFO - Жалоба #2017397728 отправлена админу
+2025-07-08 16:46:50,685 - aiogram.event - INFO - Update id=376614704 is handled. Duration 984 ms by bot id=7557858368
+2025-07-08 16:47:22,135 - aiogram.event - INFO - Update id=376614705 is handled. Duration 422 ms by bot id=7557858368
+2025-07-08 16:48:10,822 - aiogram.event - INFO - Update id=376614706 is handled. Duration 859 ms by bot id=7557858368
+2025-07-08 17:02:35,566 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2025-07-08 17:02:35,566 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7557858368)
+2025-07-08 17:02:46,881 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7557858368)
+2025-07-08 17:03:10,559 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2025-07-08 17:03:10,560 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7557858368)
+2025-07-08 17:03:22,711 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-07-08 17:03:22,712 - aiogram.dispatcher - WARNING - Sleep for 1.242324 seconds and try again... (tryings = 1, bot id = 7557858368)
+2025-07-08 17:03:34,857 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 7557858368)
